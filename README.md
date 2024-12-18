@@ -1,2 +1,2 @@
 # User_management-using-GO
-This repo contains the user simple management code using Go lang
+This repo contains the simple user management code using Go lang
